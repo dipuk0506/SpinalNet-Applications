@@ -1,1 +1,1 @@
-# Applications of SpinalNet
+# New Applications of SpinalNet
