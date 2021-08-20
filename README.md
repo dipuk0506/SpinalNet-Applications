@@ -1,1 +1,1 @@
-# Several Applications of SpinalNet by Collaborators
+# Applications of SpinalNet
