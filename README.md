@@ -1,7 +1,7 @@
-# New Applications of SpinalNet
+# SpinalNet: New Applications and Improvements
 
 
-## We create this repository to share new and new applications of SpinalNet. 
+## We create this repository to share new applications and improvements on SpinalNet. 
 
 ## Steps to share codes.
 ### 1. Fork this repository.
