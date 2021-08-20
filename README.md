@@ -1,4 +1,4 @@
-# SpinalNet: New Applications and Improvements
+# [SpinalNet](https://github.com/dipuk0506/SpinalNet): New Applications and Improvements
 
 
 ## We create this repository to share new applications and improvements on SpinalNet. 
