@@ -1,8 +1,5 @@
 # [SpinalNet](https://github.com/dipuk0506/SpinalNet): New Applications and Improvements
 
-
-## We create this repository to share new applications and improvements on SpinalNet. 
-
 ## Steps to share codes.
 ### 1. Fork this repository.
 ### 2. Upload codes, and other files as a folder in your repository. 
